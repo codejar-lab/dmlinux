@@ -12,6 +12,17 @@ DMLinux stands for Developer's MonoLinux.
 ##What about version of DMLinux?
 First version is going to be DMLinux 13 after that It will be released in yearly format.DMLinux 14,15 etc.
 
+##How many editions includes DMLinux?
+There will be three editions for DMLinux.
+1. DVD Edition
+- This edition includes all packages and custom UI.the ISO of this version will be around 2-3 GB.
+This edition is developed for those people having slow internet connection or living in remote area.
+2. Minimal Edition
+- This edition includes few essential packages and custom UI.the ISO of this version will be around 1 GB.
+This edition is developed for those people having faster internet connection and don't want other stuff rather than required.
+3. NU Edition
+- This edition is specially developed for Nirma Uni.,Institute of technology with the aim of overcoming windows licensing and full operating system that can take place of windows.
+
 ##What about source code?
 We won't upload each and every byte because it will be senseless to upload each time whole ISO file on github or other repository so we will only upload development(alpha & beta) and final releases.
 
