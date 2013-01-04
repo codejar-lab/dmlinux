@@ -16,18 +16,18 @@ First version is going to be DMLinux 13 after that It will be released in yearly
 
 There will be three editions for DMLinux.
 
-1. DVD Edition
-
+#### DVD Edition
+--------------
 - This edition includes all packages and custom UI.the ISO of this version will be around 2-3 GB.
 This edition is developed for those people having slow internet connection or living in remote area.
 
-2. Minimal Edition
-
+#### Minimal Edition
+--------------
 - This edition includes few essential packages and custom UI.the ISO of this version will be around 1 GB.
 This edition is developed for those people having faster internet connection and don't want other stuff rather than required.
 
-3. NU Edition
-
+#### NU Edition
+--------------
 - This edition is specially developed for Nirma Uni.,Institute of technology with the aim of overcoming windows licensing and full operating system that can take place of windows.
 
 ##What about source code?
