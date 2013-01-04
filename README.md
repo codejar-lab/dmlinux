@@ -12,9 +12,9 @@ DMLinux stands for Developer's MonoLinux.
 ##What about version of DMLinux?
 First version is going to be DMLinux 13 after that It will be released in yearly format.DMLinux 14,15 etc.
 
-##How many editions includes DMLinux?
+##How many editions are in DMLinux 13?
 
-There will be three editions for DMLinux.
+There will be three editions for DMLinux 13.
 
 #### DVD Edition
 --------------
@@ -34,7 +34,7 @@ This edition is developed for those people having faster internet connection and
 We won't upload each and every byte because it will be senseless to upload each time whole ISO file on github or other repository so we will only upload development(alpha & beta) and final releases.
 
 ##What is release schedule?
-We cant give proper date about release but it will be in summer-13(March-May).
+We cant give proper date about release now but it will be released in summer-13(March-May).
 
 ##About contribution
 If you are really excited about this operating system,you can fill up our survey(We will upload as soon as possible) to improve development and also give suggestions on github or mail personally here(arpanchavdaeng@gmail.com).
