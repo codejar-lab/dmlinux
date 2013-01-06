@@ -1,8 +1,0 @@
-#Next updates
-
-##Applications 
-1. 
-
-
-##Tips & Tricks
-1. Create own local repository [Link](http://askubuntu.com/questions/170348/how-to-make-my-own-local-repository)
