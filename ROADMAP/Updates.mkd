@@ -1,0 +1,121 @@
+#Next updates
+
+##Essential Apps
+1. Photo editing tools
+
+	- GIMP
+	- Inkscape
+
+2. Web development languages 
+	- html
+	- php
+	- .net
+	- javascript
+	- css
+	- jquery
+
+3. Programming languages
+	- c,
+	- c++
+	- c#
+	- java
+	- python
+	- visual basic
+	- sql
+	- ruby
+	- pascal
+	- scala
+
+4. Virtulization
+	- virtual box	
+
+5. Converter tools
+	- alien
+	- AODC
+	- Format Factory
+
+6. Emulator tools
+	- Wine
+	- DOSBox Emulator for DOS Applications
+
+7. Media player
+	- xline
+	- XMMS
+	- MPlayer
+	- vlc
+
+8. Partitioning tools
+	- QTParted
+	- Gparted
+
+9. Rescue tools
+	- Super Grub Disk
+	- TestDisk	
+	
+10. Packet tracer tools
+	- cisco
+	- wireshark
+
+11. Chat tools
+	- Xchat
+
+12. Browsers
+	- google chrome
+	- firefox
+	
+13. Backup tools
+	- Simple Backup Solution
+	- Dejavu backup
+	- Partimage
+
+14. Linux development tools
+	- build-essential toolkit
+	- Quickly toolkit
+	- Gambas2 toolkit
+
+15. Markdown support
+	- Retext or Uberwriter
+	- pandoc
+	- Multi markdown support 
+16. IDEs
+	- Eclipse
+	- Netbeans
+	- Aptana studio
+	- Ninja IDE for python and django developers
+
+17. Notepad editors
+	- gedit
+	- emacs
+	- geany
+
+18. Diagram making software
+	- Dia
+
+19. Project management software
+	- Project libre
+
+20. Webserver stack
+	- LAMP stack
+	- Tomcat server
+
+
+	
+
+##Applications for testing 
+
+1. Application for saving code-snippets [jcodecollector](http://www.alessandrococco.com/p/jcodecollector_22.html)
+
+
+
+##Modifications related to GUI(GNOME SHELL)
+
+
+##Modifications related to GUI(XFCE)
+
+
+
+
+
+
+##Tips & Tricks
+1. Create own local repository [Link](http://askubuntu.com/questions/170348/how-to-make-my-own-local-repository)
