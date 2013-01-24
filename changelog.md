@@ -13,7 +13,7 @@
 
 - Base system and UI : Mint 13(XFCE 4.1)
 
-- Addition : None
+- System change : None
 
 - Bug List :
 
@@ -28,7 +28,7 @@
 
 - Base system and UI : Mint 13(XFCE 4.1)
 
-- Addition : None
+- System change : None
 
 - Bug List :
 
@@ -42,7 +42,7 @@
 
 - Base system and UI : Ubuntu 12.10(GNOME SHELL 3.6)
 
-- Addition : None
+- System change : None
 
 - Bug List : 
 
@@ -57,7 +57,7 @@
 
 - Base system and UI : Ubuntu 12.10(GNOME SHELL 3.6)
 
-- Addition : 
+- System change : 
 
 	>- Added following programming language support
 		- Ruby,PHP,MySQL
@@ -77,7 +77,7 @@
 
 - Base system and UI : Ubuntu 12.10(GNOME SHELL 3.6)
 
-- Addition : 
+- System change : 
 
 	>- Added following programming language support
 		- Python3
@@ -101,7 +101,7 @@
 
 - Base system and UI : Ubuntu 12.10(GNOME SHELL 3.6)
 
-- Addition : 
+- System change : 
 
 	>- Added following programming language support
 		- Perl
@@ -114,3 +114,21 @@
 - Bug solved list:
 	
 	>- NONE 
+
+###DMLinux 13(build07)
+
+- Base system and UI : Ubuntu 12.10(GNOME SHELL 3.6)
+
+- System change : 
+
+	>- Added following programming language support
+		- QML
+	>- Added following applications
+		- preload,scilab,blender,logisim,nautilus-extra,Qt developement toolkit,sqlliteman,goldendict
+- Bug List : 
+
+	>- NONE
+
+- Bug solved list:
+	
+	>- Bug solved: pre-load app installed to reduce start up time
