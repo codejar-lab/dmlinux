@@ -53,15 +53,12 @@ temperature_unit celsius
 default_color FFFFFF
 
 # Lua Load  #
-lua_load ~/.conky/clock_rings.lua
+lua_load .conky/clock_rings.lua
 lua_draw_hook_pre clock_rings
 
 TEXT
 ${voffset 8}${color 7ca7c6}${font caviar dreams:size=16}${time %A}${font}${voffset -8}${alignr 50}${color FFFFFF}${font caviar dreams:size=38}${time %e}${font}
 ${color FFFFFF}${voffset -30}${color FFFFFF}${font caviar dreams:size=18}${time %b}${font}${voffset -3} ${color FFFFFF}${font caviar dreams:size=20}${time %Y}${font}${color 7ca7c6}${hr}
-${voffset 140}${font caviar dreams:size=10}${alignr}HOME${font}
-${font caviar dreams:size=12}${color FFFFFF}${alignr}${weather http://weather.noaa.gov/pub/data/observations/metar/stations/ LBSF temperature temperature 30} °C${font}
-${image ~/.conky/new-ubuntu-logo.png -p 64,125 -s 70x20}
 
 ${color FFFFFF}${goto 25}${voffset 35}${cpu cpu0}%
 ${color 7ca7c6}${goto 25}CPU
@@ -83,5 +80,5 @@ ${color FFFFFF}${font caviar dreams:size=8}Running: ${running_processes}
 
 
 ${color 7ca7c6}${font caviar dreams:size=8}${alignr}${nodename}
-${color 7ca7c6}${font caviar dreams:size=8}${alignr}${pre_exec cat /etc/issue.net}  $machine
+${color 7ca7c6}${font caviar dreams:size=8}${alignr}${pre_exec cat .conky/issue.net}  $machine
 ${color 7ca7c6}${font caviar dreams:size=8}${alignr}Kernel: ${kernel}
