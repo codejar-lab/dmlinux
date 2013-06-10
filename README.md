@@ -16,8 +16,10 @@ First version is going to be DMLinux 13 after that It will be released in yearly
 ##What about source code?
 We won't upload each and every byte because it will be senseless to upload each time whole ISO file on github or other repository so we will only upload development(alpha & beta) and final releases.
 
-##What is release schedule?
-We cant give proper date about release now but it will be released in summer-13(March-May).
+##Download and Installation
+You can download DMLinux 12.10 from this link: http://sourceforge.net/projects/dmlinux/files/latest/download
+
+Installtion is easy as Ubuntu.
 
 ##About contribution
 If you are really excited about this operating system,you can fill up our survey(We will upload as soon as possible) to improve development and also give suggestions on github or mail personally here(arpanchavdaeng@gmail.com).
